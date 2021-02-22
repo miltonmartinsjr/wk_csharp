@@ -1,0 +1,7 @@
+C:\Users\eleves\source\repos\QueryDAII\QueryDAII\bin\Debug\QueryDAII.exe.config
+C:\Users\eleves\source\repos\QueryDAII\QueryDAII\bin\Debug\QueryDAII.exe
+C:\Users\eleves\source\repos\QueryDAII\QueryDAII\bin\Debug\QueryDAII.pdb
+C:\Users\eleves\source\repos\QueryDAII\QueryDAII\obj\Debug\QueryDAII.csprojAssemblyReference.cache
+C:\Users\eleves\source\repos\QueryDAII\QueryDAII\obj\Debug\QueryDAII.csproj.CoreCompileInputs.cache
+C:\Users\eleves\source\repos\QueryDAII\QueryDAII\obj\Debug\QueryDAII.exe
+C:\Users\eleves\source\repos\QueryDAII\QueryDAII\obj\Debug\QueryDAII.pdb

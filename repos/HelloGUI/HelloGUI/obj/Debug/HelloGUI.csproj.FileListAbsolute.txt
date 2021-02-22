@@ -1,0 +1,10 @@
+C:\Users\eleves\source\repos\HelloGUI\HelloGUI\bin\Debug\HelloGUI.exe.config
+C:\Users\eleves\source\repos\HelloGUI\HelloGUI\bin\Debug\HelloGUI.exe
+C:\Users\eleves\source\repos\HelloGUI\HelloGUI\bin\Debug\HelloGUI.pdb
+C:\Users\eleves\source\repos\HelloGUI\HelloGUI\obj\Debug\HelloGUI.csprojAssemblyReference.cache
+C:\Users\eleves\source\repos\HelloGUI\HelloGUI\obj\Debug\HelloGUI.Form1.resources
+C:\Users\eleves\source\repos\HelloGUI\HelloGUI\obj\Debug\HelloGUI.Properties.Resources.resources
+C:\Users\eleves\source\repos\HelloGUI\HelloGUI\obj\Debug\HelloGUI.csproj.GenerateResource.cache
+C:\Users\eleves\source\repos\HelloGUI\HelloGUI\obj\Debug\HelloGUI.csproj.CoreCompileInputs.cache
+C:\Users\eleves\source\repos\HelloGUI\HelloGUI\obj\Debug\HelloGUI.exe
+C:\Users\eleves\source\repos\HelloGUI\HelloGUI\obj\Debug\HelloGUI.pdb

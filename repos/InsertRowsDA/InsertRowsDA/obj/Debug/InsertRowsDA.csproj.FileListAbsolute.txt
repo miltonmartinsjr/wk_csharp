@@ -1,0 +1,7 @@
+C:\Users\eleves\source\repos\InsertRowsDA\InsertRowsDA\bin\Debug\InsertRowsDA.exe.config
+C:\Users\eleves\source\repos\InsertRowsDA\InsertRowsDA\bin\Debug\InsertRowsDA.exe
+C:\Users\eleves\source\repos\InsertRowsDA\InsertRowsDA\bin\Debug\InsertRowsDA.pdb
+C:\Users\eleves\source\repos\InsertRowsDA\InsertRowsDA\obj\Debug\InsertRowsDA.csprojAssemblyReference.cache
+C:\Users\eleves\source\repos\InsertRowsDA\InsertRowsDA\obj\Debug\InsertRowsDA.csproj.CoreCompileInputs.cache
+C:\Users\eleves\source\repos\InsertRowsDA\InsertRowsDA\obj\Debug\InsertRowsDA.exe
+C:\Users\eleves\source\repos\InsertRowsDA\InsertRowsDA\obj\Debug\InsertRowsDA.pdb

@@ -1,0 +1,7 @@
+C:\Users\eleves\source\repos\TypeAnonyme\TypeAnonyme\bin\Debug\TypeAnonyme.exe.config
+C:\Users\eleves\source\repos\TypeAnonyme\TypeAnonyme\bin\Debug\TypeAnonyme.exe
+C:\Users\eleves\source\repos\TypeAnonyme\TypeAnonyme\bin\Debug\TypeAnonyme.pdb
+C:\Users\eleves\source\repos\TypeAnonyme\TypeAnonyme\obj\Debug\TypeAnonyme.csprojAssemblyReference.cache
+C:\Users\eleves\source\repos\TypeAnonyme\TypeAnonyme\obj\Debug\TypeAnonyme.csproj.CoreCompileInputs.cache
+C:\Users\eleves\source\repos\TypeAnonyme\TypeAnonyme\obj\Debug\TypeAnonyme.exe
+C:\Users\eleves\source\repos\TypeAnonyme\TypeAnonyme\obj\Debug\TypeAnonyme.pdb

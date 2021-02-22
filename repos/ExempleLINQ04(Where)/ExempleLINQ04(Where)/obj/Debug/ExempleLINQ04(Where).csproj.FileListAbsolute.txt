@@ -1,0 +1,7 @@
+C:\Users\eleves\source\repos\ExempleLINQ04(Where)\ExempleLINQ04(Where)\bin\Debug\ExempleLINQ04(Where).exe.config
+C:\Users\eleves\source\repos\ExempleLINQ04(Where)\ExempleLINQ04(Where)\bin\Debug\ExempleLINQ04(Where).exe
+C:\Users\eleves\source\repos\ExempleLINQ04(Where)\ExempleLINQ04(Where)\bin\Debug\ExempleLINQ04(Where).pdb
+C:\Users\eleves\source\repos\ExempleLINQ04(Where)\ExempleLINQ04(Where)\obj\Debug\ExempleLINQ04(Where).csproj.CoreCompileInputs.cache
+C:\Users\eleves\source\repos\ExempleLINQ04(Where)\ExempleLINQ04(Where)\obj\Debug\ExempleLINQ04(Where).exe
+C:\Users\eleves\source\repos\ExempleLINQ04(Where)\ExempleLINQ04(Where)\obj\Debug\ExempleLINQ04(Where).pdb
+C:\Users\eleves\source\repos\ExempleLINQ04(Where)\ExempleLINQ04(Where)\obj\Debug\ExempleLINQ04(Where).csprojAssemblyReference.cache

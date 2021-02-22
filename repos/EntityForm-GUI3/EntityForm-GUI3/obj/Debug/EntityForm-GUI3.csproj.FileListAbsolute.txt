@@ -1,0 +1,16 @@
+C:\Users\eleves\source\repos\EntityForm-GUI3\EntityForm-GUI3\bin\Debug\EntityForm-GUI3.exe.config
+C:\Users\eleves\source\repos\EntityForm-GUI3\EntityForm-GUI3\bin\Debug\EntityForm-GUI3.exe
+C:\Users\eleves\source\repos\EntityForm-GUI3\EntityForm-GUI3\bin\Debug\EntityForm-GUI3.pdb
+C:\Users\eleves\source\repos\EntityForm-GUI3\EntityForm-GUI3\bin\Debug\EntityFramework.dll
+C:\Users\eleves\source\repos\EntityForm-GUI3\EntityForm-GUI3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eleves\source\repos\EntityForm-GUI3\EntityForm-GUI3\bin\Debug\EntityFramework.xml
+C:\Users\eleves\source\repos\EntityForm-GUI3\EntityForm-GUI3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eleves\source\repos\EntityForm-GUI3\EntityForm-GUI3\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\eleves\source\repos\EntityForm-GUI3\EntityForm-GUI3\obj\Debug\EntityForm-GUI3.csprojAssemblyReference.cache
+C:\Users\eleves\source\repos\EntityForm-GUI3\EntityForm-GUI3\obj\Debug\EntityForm_GUI3.Form1.resources
+C:\Users\eleves\source\repos\EntityForm-GUI3\EntityForm-GUI3\obj\Debug\EntityForm_GUI3.Properties.Resources.resources
+C:\Users\eleves\source\repos\EntityForm-GUI3\EntityForm-GUI3\obj\Debug\EntityForm-GUI3.csproj.GenerateResource.cache
+C:\Users\eleves\source\repos\EntityForm-GUI3\EntityForm-GUI3\obj\Debug\EntityForm-GUI3.csproj.CoreCompileInputs.cache
+C:\Users\eleves\source\repos\EntityForm-GUI3\EntityForm-GUI3\obj\Debug\EntityForm-GUI3.csproj.CopyComplete
+C:\Users\eleves\source\repos\EntityForm-GUI3\EntityForm-GUI3\obj\Debug\EntityForm-GUI3.exe
+C:\Users\eleves\source\repos\EntityForm-GUI3\EntityForm-GUI3\obj\Debug\EntityForm-GUI3.pdb

@@ -1,0 +1,13 @@
+C:\Users\eleves\source\repos\DeleteTables-EF3\DeleteTables-EF3\bin\Debug\DeleteTables-EF3.exe.config
+C:\Users\eleves\source\repos\DeleteTables-EF3\DeleteTables-EF3\bin\Debug\DeleteTables-EF3.exe
+C:\Users\eleves\source\repos\DeleteTables-EF3\DeleteTables-EF3\bin\Debug\DeleteTables-EF3.pdb
+C:\Users\eleves\source\repos\DeleteTables-EF3\DeleteTables-EF3\bin\Debug\EntityFramework.dll
+C:\Users\eleves\source\repos\DeleteTables-EF3\DeleteTables-EF3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eleves\source\repos\DeleteTables-EF3\DeleteTables-EF3\bin\Debug\EntityFramework.xml
+C:\Users\eleves\source\repos\DeleteTables-EF3\DeleteTables-EF3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eleves\source\repos\DeleteTables-EF3\DeleteTables-EF3\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\eleves\source\repos\DeleteTables-EF3\DeleteTables-EF3\obj\Debug\DeleteTables-EF3.csprojAssemblyReference.cache
+C:\Users\eleves\source\repos\DeleteTables-EF3\DeleteTables-EF3\obj\Debug\DeleteTables-EF3.csproj.CoreCompileInputs.cache
+C:\Users\eleves\source\repos\DeleteTables-EF3\DeleteTables-EF3\obj\Debug\DeleteTables-EF3.csproj.CopyComplete
+C:\Users\eleves\source\repos\DeleteTables-EF3\DeleteTables-EF3\obj\Debug\DeleteTables-EF3.exe
+C:\Users\eleves\source\repos\DeleteTables-EF3\DeleteTables-EF3\obj\Debug\DeleteTables-EF3.pdb

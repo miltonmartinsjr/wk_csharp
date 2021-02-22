@@ -1,0 +1,7 @@
+C:\Users\eleves\source\repos\UpdateDA\UpdateDA\bin\Debug\UpdateDA.exe.config
+C:\Users\eleves\source\repos\UpdateDA\UpdateDA\bin\Debug\UpdateDA.exe
+C:\Users\eleves\source\repos\UpdateDA\UpdateDA\bin\Debug\UpdateDA.pdb
+C:\Users\eleves\source\repos\UpdateDA\UpdateDA\obj\Debug\UpdateDA.csprojAssemblyReference.cache
+C:\Users\eleves\source\repos\UpdateDA\UpdateDA\obj\Debug\UpdateDA.csproj.CoreCompileInputs.cache
+C:\Users\eleves\source\repos\UpdateDA\UpdateDA\obj\Debug\UpdateDA.exe
+C:\Users\eleves\source\repos\UpdateDA\UpdateDA\obj\Debug\UpdateDA.pdb

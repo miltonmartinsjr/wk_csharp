@@ -1,0 +1,7 @@
+C:\Users\eleves\source\repos\ExempleLINQ(Select)\ExempleLINQ(Select)\bin\Debug\ExempleLINQ(Select).exe.config
+C:\Users\eleves\source\repos\ExempleLINQ(Select)\ExempleLINQ(Select)\bin\Debug\ExempleLINQ(Select).exe
+C:\Users\eleves\source\repos\ExempleLINQ(Select)\ExempleLINQ(Select)\bin\Debug\ExempleLINQ(Select).pdb
+C:\Users\eleves\source\repos\ExempleLINQ(Select)\ExempleLINQ(Select)\obj\Debug\ExempleLINQ(Select).csprojAssemblyReference.cache
+C:\Users\eleves\source\repos\ExempleLINQ(Select)\ExempleLINQ(Select)\obj\Debug\ExempleLINQ(Select).csproj.CoreCompileInputs.cache
+C:\Users\eleves\source\repos\ExempleLINQ(Select)\ExempleLINQ(Select)\obj\Debug\ExempleLINQ(Select).exe
+C:\Users\eleves\source\repos\ExempleLINQ(Select)\ExempleLINQ(Select)\obj\Debug\ExempleLINQ(Select).pdb

@@ -1,0 +1,7 @@
+C:\Users\eleves\source\repos\DelegateExemple\DelegateExemple\bin\Debug\DelegateExemple.exe.config
+C:\Users\eleves\source\repos\DelegateExemple\DelegateExemple\bin\Debug\DelegateExemple.exe
+C:\Users\eleves\source\repos\DelegateExemple\DelegateExemple\bin\Debug\DelegateExemple.pdb
+C:\Users\eleves\source\repos\DelegateExemple\DelegateExemple\obj\Debug\DelegateExemple.csprojAssemblyReference.cache
+C:\Users\eleves\source\repos\DelegateExemple\DelegateExemple\obj\Debug\DelegateExemple.csproj.CoreCompileInputs.cache
+C:\Users\eleves\source\repos\DelegateExemple\DelegateExemple\obj\Debug\DelegateExemple.exe
+C:\Users\eleves\source\repos\DelegateExemple\DelegateExemple\obj\Debug\DelegateExemple.pdb

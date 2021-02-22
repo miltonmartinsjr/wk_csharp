@@ -1,0 +1,7 @@
+C:\Users\eleves\source\repos\QueryDA\QueryDA\bin\Debug\QueryDA.exe.config
+C:\Users\eleves\source\repos\QueryDA\QueryDA\bin\Debug\QueryDA.exe
+C:\Users\eleves\source\repos\QueryDA\QueryDA\bin\Debug\QueryDA.pdb
+C:\Users\eleves\source\repos\QueryDA\QueryDA\obj\Debug\QueryDA.csprojAssemblyReference.cache
+C:\Users\eleves\source\repos\QueryDA\QueryDA\obj\Debug\QueryDA.csproj.CoreCompileInputs.cache
+C:\Users\eleves\source\repos\QueryDA\QueryDA\obj\Debug\QueryDA.exe
+C:\Users\eleves\source\repos\QueryDA\QueryDA\obj\Debug\QueryDA.pdb

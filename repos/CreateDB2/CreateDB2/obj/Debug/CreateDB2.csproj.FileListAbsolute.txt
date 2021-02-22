@@ -1,0 +1,7 @@
+C:\Users\eleves\source\repos\CreateDB2\CreateDB2\bin\Debug\CreateDB2.exe.config
+C:\Users\eleves\source\repos\CreateDB2\CreateDB2\bin\Debug\CreateDB2.exe
+C:\Users\eleves\source\repos\CreateDB2\CreateDB2\bin\Debug\CreateDB2.pdb
+C:\Users\eleves\source\repos\CreateDB2\CreateDB2\obj\Debug\CreateDB2.csprojAssemblyReference.cache
+C:\Users\eleves\source\repos\CreateDB2\CreateDB2\obj\Debug\CreateDB2.csproj.CoreCompileInputs.cache
+C:\Users\eleves\source\repos\CreateDB2\CreateDB2\obj\Debug\CreateDB2.exe
+C:\Users\eleves\source\repos\CreateDB2\CreateDB2\obj\Debug\CreateDB2.pdb

@@ -1,0 +1,53 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ExempleLINQ02A
+{
+    public class Student
+    {
+        public int StudentID { get; set; }
+        public String StudentName { get; set; }
+        public int Age { get; set; }
+    }
+
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            List<Student> studentList = new List<Student>()
+            {
+                new Student(){ StudentID = 1, StudentName = "John", Age = 13},
+                new Student(){ StudentID = 2, StudentName = "Moin", Age = 21},
+                new Student(){ StudentID = 4, StudentName = "Ram", Age = 20},
+                new Student(){ StudentID = 3, StudentName = "Bill", Age = 18},
+                new Student(){ StudentID = 5, StudentName = "Ron", Age = 15}
+            };
+
+            var teenAgerStudent = studentList.Where(s=> s.Age > 12 && s.Age < 20);
+
+            Console.WriteLine("Teen Age Student : ");
+
+            foreach (var s in teenAgerStudent)
+            {
+                Console.WriteLine(s.StudentID + " " + s.StudentName + " " + s.Age);
+            }
+
+            Console.WriteLine("++++++++++++++++++++++++++");
+            Func<Student, bool> validate = s => s.Age > 12 && s.Age < 20;
+
+            var teenAgerStudent1 = studentList.Where(validate);
+                                   
+
+            foreach (var s in teenAgerStudent1)
+            {
+                Console.WriteLine(s.StudentID + " " + s.StudentName + " " + s.Age);
+            }
+
+            Console.ReadKey();
+        }
+    }
+}

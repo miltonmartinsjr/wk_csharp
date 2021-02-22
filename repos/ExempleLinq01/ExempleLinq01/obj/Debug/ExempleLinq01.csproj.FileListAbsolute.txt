@@ -1,0 +1,7 @@
+C:\Users\eleves\source\repos\ExempleLinq01\ExempleLinq01\bin\Debug\ExempleLinq01.exe.config
+C:\Users\eleves\source\repos\ExempleLinq01\ExempleLinq01\bin\Debug\ExempleLinq01.exe
+C:\Users\eleves\source\repos\ExempleLinq01\ExempleLinq01\bin\Debug\ExempleLinq01.pdb
+C:\Users\eleves\source\repos\ExempleLinq01\ExempleLinq01\obj\Debug\ExempleLinq01.csprojAssemblyReference.cache
+C:\Users\eleves\source\repos\ExempleLinq01\ExempleLinq01\obj\Debug\ExempleLinq01.csproj.CoreCompileInputs.cache
+C:\Users\eleves\source\repos\ExempleLinq01\ExempleLinq01\obj\Debug\ExempleLinq01.exe
+C:\Users\eleves\source\repos\ExempleLinq01\ExempleLinq01\obj\Debug\ExempleLinq01.pdb

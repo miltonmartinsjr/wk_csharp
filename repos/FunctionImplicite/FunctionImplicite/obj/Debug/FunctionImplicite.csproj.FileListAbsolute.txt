@@ -1,0 +1,7 @@
+C:\Users\eleves\source\repos\FunctionImplicite\FunctionImplicite\bin\Debug\FunctionImplicite.exe.config
+C:\Users\eleves\source\repos\FunctionImplicite\FunctionImplicite\bin\Debug\FunctionImplicite.exe
+C:\Users\eleves\source\repos\FunctionImplicite\FunctionImplicite\bin\Debug\FunctionImplicite.pdb
+C:\Users\eleves\source\repos\FunctionImplicite\FunctionImplicite\obj\Debug\FunctionImplicite.csprojAssemblyReference.cache
+C:\Users\eleves\source\repos\FunctionImplicite\FunctionImplicite\obj\Debug\FunctionImplicite.csproj.CoreCompileInputs.cache
+C:\Users\eleves\source\repos\FunctionImplicite\FunctionImplicite\obj\Debug\FunctionImplicite.exe
+C:\Users\eleves\source\repos\FunctionImplicite\FunctionImplicite\obj\Debug\FunctionImplicite.pdb

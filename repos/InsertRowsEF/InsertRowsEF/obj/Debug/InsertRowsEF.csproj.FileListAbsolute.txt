@@ -1,0 +1,13 @@
+C:\Users\eleves\source\repos\InsertRowsEF\InsertRowsEF\bin\Debug\InsertRowsEF.exe.config
+C:\Users\eleves\source\repos\InsertRowsEF\InsertRowsEF\bin\Debug\InsertRowsEF.exe
+C:\Users\eleves\source\repos\InsertRowsEF\InsertRowsEF\bin\Debug\InsertRowsEF.pdb
+C:\Users\eleves\source\repos\InsertRowsEF\InsertRowsEF\bin\Debug\EntityFramework.dll
+C:\Users\eleves\source\repos\InsertRowsEF\InsertRowsEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eleves\source\repos\InsertRowsEF\InsertRowsEF\bin\Debug\EntityFramework.xml
+C:\Users\eleves\source\repos\InsertRowsEF\InsertRowsEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eleves\source\repos\InsertRowsEF\InsertRowsEF\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\eleves\source\repos\InsertRowsEF\InsertRowsEF\obj\Debug\InsertRowsEF.csprojAssemblyReference.cache
+C:\Users\eleves\source\repos\InsertRowsEF\InsertRowsEF\obj\Debug\InsertRowsEF.csproj.CoreCompileInputs.cache
+C:\Users\eleves\source\repos\InsertRowsEF\InsertRowsEF\obj\Debug\InsertRowsEF.csproj.CopyComplete
+C:\Users\eleves\source\repos\InsertRowsEF\InsertRowsEF\obj\Debug\InsertRowsEF.exe
+C:\Users\eleves\source\repos\InsertRowsEF\InsertRowsEF\obj\Debug\InsertRowsEF.pdb

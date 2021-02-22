@@ -1,0 +1,6 @@
+C:\Users\eleves\source\repos\ExempleLINQ02A\ExempleLINQ02A\bin\Debug\ExempleLINQ02A.exe.config
+C:\Users\eleves\source\repos\ExempleLINQ02A\ExempleLINQ02A\bin\Debug\ExempleLINQ02A.exe
+C:\Users\eleves\source\repos\ExempleLINQ02A\ExempleLINQ02A\bin\Debug\ExempleLINQ02A.pdb
+C:\Users\eleves\source\repos\ExempleLINQ02A\ExempleLINQ02A\obj\Debug\ExempleLINQ02A.csproj.CoreCompileInputs.cache
+C:\Users\eleves\source\repos\ExempleLINQ02A\ExempleLINQ02A\obj\Debug\ExempleLINQ02A.exe
+C:\Users\eleves\source\repos\ExempleLINQ02A\ExempleLINQ02A\obj\Debug\ExempleLINQ02A.pdb

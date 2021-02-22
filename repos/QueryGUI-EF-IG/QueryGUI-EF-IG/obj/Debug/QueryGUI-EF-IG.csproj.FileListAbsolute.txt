@@ -1,0 +1,16 @@
+C:\Users\eleves\source\repos\QueryGUI-EF-IG\QueryGUI-EF-IG\bin\Debug\QueryGUI-EF-IG.exe.config
+C:\Users\eleves\source\repos\QueryGUI-EF-IG\QueryGUI-EF-IG\bin\Debug\QueryGUI-EF-IG.exe
+C:\Users\eleves\source\repos\QueryGUI-EF-IG\QueryGUI-EF-IG\bin\Debug\QueryGUI-EF-IG.pdb
+C:\Users\eleves\source\repos\QueryGUI-EF-IG\QueryGUI-EF-IG\bin\Debug\EntityFramework.dll
+C:\Users\eleves\source\repos\QueryGUI-EF-IG\QueryGUI-EF-IG\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eleves\source\repos\QueryGUI-EF-IG\QueryGUI-EF-IG\bin\Debug\EntityFramework.xml
+C:\Users\eleves\source\repos\QueryGUI-EF-IG\QueryGUI-EF-IG\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eleves\source\repos\QueryGUI-EF-IG\QueryGUI-EF-IG\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\eleves\source\repos\QueryGUI-EF-IG\QueryGUI-EF-IG\obj\Debug\QueryGUI-EF-IG.csprojAssemblyReference.cache
+C:\Users\eleves\source\repos\QueryGUI-EF-IG\QueryGUI-EF-IG\obj\Debug\QueryGUI_EF_IG.Form1.resources
+C:\Users\eleves\source\repos\QueryGUI-EF-IG\QueryGUI-EF-IG\obj\Debug\QueryGUI_EF_IG.Properties.Resources.resources
+C:\Users\eleves\source\repos\QueryGUI-EF-IG\QueryGUI-EF-IG\obj\Debug\QueryGUI-EF-IG.csproj.GenerateResource.cache
+C:\Users\eleves\source\repos\QueryGUI-EF-IG\QueryGUI-EF-IG\obj\Debug\QueryGUI-EF-IG.csproj.CoreCompileInputs.cache
+C:\Users\eleves\source\repos\QueryGUI-EF-IG\QueryGUI-EF-IG\obj\Debug\QueryGUI-EF-IG.csproj.CopyComplete
+C:\Users\eleves\source\repos\QueryGUI-EF-IG\QueryGUI-EF-IG\obj\Debug\QueryGUI-EF-IG.exe
+C:\Users\eleves\source\repos\QueryGUI-EF-IG\QueryGUI-EF-IG\obj\Debug\QueryGUI-EF-IG.pdb

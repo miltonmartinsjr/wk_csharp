@@ -1,0 +1,16 @@
+C:\Users\eleves\source\repos\EntityFramework-GUI2\EntityFramework-GUI2\bin\Debug\EntityFramework-GUI2.exe.config
+C:\Users\eleves\source\repos\EntityFramework-GUI2\EntityFramework-GUI2\bin\Debug\EntityFramework-GUI2.exe
+C:\Users\eleves\source\repos\EntityFramework-GUI2\EntityFramework-GUI2\bin\Debug\EntityFramework-GUI2.pdb
+C:\Users\eleves\source\repos\EntityFramework-GUI2\EntityFramework-GUI2\bin\Debug\EntityFramework.dll
+C:\Users\eleves\source\repos\EntityFramework-GUI2\EntityFramework-GUI2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eleves\source\repos\EntityFramework-GUI2\EntityFramework-GUI2\bin\Debug\EntityFramework.xml
+C:\Users\eleves\source\repos\EntityFramework-GUI2\EntityFramework-GUI2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eleves\source\repos\EntityFramework-GUI2\EntityFramework-GUI2\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\eleves\source\repos\EntityFramework-GUI2\EntityFramework-GUI2\obj\Debug\EntityFramework-GUI2.csprojAssemblyReference.cache
+C:\Users\eleves\source\repos\EntityFramework-GUI2\EntityFramework-GUI2\obj\Debug\EntityFramework_GUI2.Form1.resources
+C:\Users\eleves\source\repos\EntityFramework-GUI2\EntityFramework-GUI2\obj\Debug\EntityFramework_GUI2.Properties.Resources.resources
+C:\Users\eleves\source\repos\EntityFramework-GUI2\EntityFramework-GUI2\obj\Debug\EntityFramework-GUI2.csproj.GenerateResource.cache
+C:\Users\eleves\source\repos\EntityFramework-GUI2\EntityFramework-GUI2\obj\Debug\EntityFramework-GUI2.csproj.CoreCompileInputs.cache
+C:\Users\eleves\source\repos\EntityFramework-GUI2\EntityFramework-GUI2\obj\Debug\EntityFramework-GUI2.csproj.CopyComplete
+C:\Users\eleves\source\repos\EntityFramework-GUI2\EntityFramework-GUI2\obj\Debug\EntityFramework-GUI2.exe
+C:\Users\eleves\source\repos\EntityFramework-GUI2\EntityFramework-GUI2\obj\Debug\EntityFramework-GUI2.pdb

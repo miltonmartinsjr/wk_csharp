@@ -1,0 +1,13 @@
+C:\Users\eleves\source\repos\CreateTables-EF\CreateTables-EF\bin\Debug\CreateTables-EF.exe.config
+C:\Users\eleves\source\repos\CreateTables-EF\CreateTables-EF\bin\Debug\CreateTables-EF.exe
+C:\Users\eleves\source\repos\CreateTables-EF\CreateTables-EF\bin\Debug\CreateTables-EF.pdb
+C:\Users\eleves\source\repos\CreateTables-EF\CreateTables-EF\bin\Debug\EntityFramework.dll
+C:\Users\eleves\source\repos\CreateTables-EF\CreateTables-EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eleves\source\repos\CreateTables-EF\CreateTables-EF\bin\Debug\EntityFramework.xml
+C:\Users\eleves\source\repos\CreateTables-EF\CreateTables-EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eleves\source\repos\CreateTables-EF\CreateTables-EF\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\eleves\source\repos\CreateTables-EF\CreateTables-EF\obj\Debug\CreateTables-EF.csprojAssemblyReference.cache
+C:\Users\eleves\source\repos\CreateTables-EF\CreateTables-EF\obj\Debug\CreateTables-EF.csproj.CoreCompileInputs.cache
+C:\Users\eleves\source\repos\CreateTables-EF\CreateTables-EF\obj\Debug\CreateTables-EF.csproj.CopyComplete
+C:\Users\eleves\source\repos\CreateTables-EF\CreateTables-EF\obj\Debug\CreateTables-EF.exe
+C:\Users\eleves\source\repos\CreateTables-EF\CreateTables-EF\obj\Debug\CreateTables-EF.pdb
